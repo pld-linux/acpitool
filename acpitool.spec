@@ -1,5 +1,5 @@
 Summary:	AcpiTool - Linux ACPI client
-Summary(pl):	AcpiTool - linuksowy klient ACPI
+Summary(pl.UTF-8):   AcpiTool - linuksowy klient ACPI
 Name:		acpitool
 Version:	0.4.6
 Release:	1
@@ -19,12 +19,12 @@ presence, etc... Acpitool also supports various extensions for
 Toshiba, Asus and IBM Thinkpad laptops, allowing you to change the LCD
 brightness level, toggle fan on/off, and more.
 
-%description -l pl
-AcpiTool to (jeszcze jeden) linuksowy klient ACPI. Jest to ma³a
-aplikacja dzia³aj±ca z linii poleceñ. Oprócz "podstawowych" informacji
-ACPI, takich jak stan baterii, obecno¶æ zasilania AC itp. obs³uguje
-tak¿e ró¿ne rozszerzenia dla laptopów Toshiby, Asusa i IBM Thinkpad,
-pozwalaj±ce zmieniaæ poziom jasno¶ci LCD, w³±czaæ i wy³±czaæ
+%description -l pl.UTF-8
+AcpiTool to (jeszcze jeden) linuksowy klient ACPI. Jest to maÅ‚a
+aplikacja dziaÅ‚ajÄ…ca z linii poleceÅ„. OprÃ³cz "podstawowych" informacji
+ACPI, takich jak stan baterii, obecnoÅ›Ä‡ zasilania AC itp. obsÅ‚uguje
+takÅ¼e rÃ³Å¼ne rozszerzenia dla laptopÃ³w Toshiby, Asusa i IBM Thinkpad,
+pozwalajÄ…ce zmieniaÄ‡ poziom jasnoÅ›ci LCD, wÅ‚Ä…czaÄ‡ i wyÅ‚Ä…czaÄ‡
 wiatraczki itp.
 
 %prep
