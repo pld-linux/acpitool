@@ -1,5 +1,5 @@
 Summary:	AcpiTool - Linux ACPI client
-Summary(pl.UTF-8):   AcpiTool - linuksowy klient ACPI
+Summary(pl.UTF-8):	AcpiTool - linuksowy klient ACPI
 Name:		acpitool
 Version:	0.4.6
 Release:	1
