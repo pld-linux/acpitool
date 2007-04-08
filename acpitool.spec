@@ -1,12 +1,12 @@
 Summary:	AcpiTool - Linux ACPI client
 Summary(pl.UTF-8):	AcpiTool - linuksowy klient ACPI
 Name:		acpitool
-Version:	0.4.6
+Version:	0.4.7
 Release:	1
 License:	GPL v2
 Group:		Applications
 Source0:	http://dl.sourceforge.net/acpitool/%{name}-%{version}.tar.bz2
-# Source0-md5:	4bd3efda303c12bf154771adf61be0f6
+# Source0-md5:	cba416a11229e896ec2639c59b6f59c5
 URL:		http://freeunix.dyndns.org:8088/site2/acpitool.shtml
 BuildRequires:	autoconf
 BuildRequires:	automake
@@ -48,6 +48,6 @@ rm -rf $RPM_BUILD_ROOT
 
 %files
 %defattr(644,root,root,755)
-%doc AUTHORS ChangeLog README TODO
+%doc AUTHORS ChangeLog NEWS README TODO
 %attr(755,root,root) %{_bindir}/*
 %{_mandir}/*/*
